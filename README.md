@@ -15,7 +15,7 @@ Profissional com mais de 15 anos de experiência no desenvolvimento e suporte de
 - Localização: Curitiba, PR
 - Telefone: +55 41 99154-4206
 - E-mail: wanderleycjr@gmail.com
-- Linkedin: 
+- Linkedin: https://www.linkedin.com/in/wanderley-junior-747b88149
 
 ## Formação Acadêmica
 - **Pós-Graduação**: Engenharia de Software – Faculdade Estácio (Curitiba/PR)
