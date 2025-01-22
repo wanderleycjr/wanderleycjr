@@ -1,5 +1,5 @@
 ### 👨‍💻 Wanderley Junior
-### Desenvolvedor Senior com foco em **JD Edwards** e **Java** ###
+### Desenvolvedor Senior com foco em **Java** e **Oracle JD Edwards** ###
 
 Expertise em:
 - **JD Edwards (EnterpriseOne)**
